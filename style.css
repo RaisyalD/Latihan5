@@ -1,0 +1,25 @@
+*{
+    font-family: 'Young Serif', serif;
+}
+
+.navbar{
+    background-color: white;
+}
+
+.navbar-brand{
+    color: black;
+    font-size: 80px;
+}
+
+p{
+    color: gray;
+}
+
+.img-responsive{
+    width: 500px;
+    height: 400px;
+}
+
+#intro{
+    padding-top: 3rem;
+}
